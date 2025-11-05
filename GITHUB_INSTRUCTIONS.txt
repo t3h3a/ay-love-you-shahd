@@ -1,0 +1,14 @@
+خطوات رفع الملفات على GitHub:
+
+1. افتح https://github.com/new
+2. أنشئ مستودع جديد باسم: ay-love-you-shahd
+3. لا تختار "Initialize with README"
+4. بعد إنشاء المستودع، انسخ الأوامر التالية في PowerShell:
+
+cd MOM-heart-animation-main
+git remote add origin https://github.com/YOUR_USERNAME/ay-love-you-shahd.git
+git branch -M main
+git push -u origin main
+
+(استبدل YOUR_USERNAME باسم المستخدم الخاص بك على GitHub)
+
